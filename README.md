@@ -10,7 +10,7 @@ Using this model we are convert image text into text file from scan PDF, Images.
 
 
 Why i used Tesseract for text Recognition?
-     Because it is very good accauracy as compaired to other NLP Model.
+     Because it is very good accauracy as compared to other NLP Model.
      Its freeware and open source.
      easily intrgated with python 
      Its is also easily intregated with OpenCV as well.
