@@ -17,6 +17,14 @@ Why i used Tesseract for text Recognition?
      
      
  Steps Involved to using tessract:-
-     .Import pytesseract 
+     .Import pytesseract (For installation see wiki documentaion link)
+     .Import CV2 
+     .Import PDF2image 
+    and intall poppler for windows and set path  (see wiki page )
+    
+    
+Process by tessearct we obserd that 
+    1. Used t
+    
         
      
