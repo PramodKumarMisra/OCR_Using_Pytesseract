@@ -23,8 +23,11 @@ Why i used Tesseract for text Recognition?
     and intall poppler for windows and set path  (see wiki page )
     
     
-Process by tessearct we obserd that 
-    1. Used t
+What problems faced during executing this project??
+    Its very important that when i execute this model we have faced lots of technical issues that i had been solved by stackoverflow and searching exactly error on google.
+    1.Poppler installation problem 
+    2. tesseract path setup in /:C drive
+    
     
         
      
