@@ -39,8 +39,8 @@ Using this model we are convert image text into text file from scan PDF, Images.
     
   **Reference for intallation in Windows NT 10.0 :**   reference : https://towardsdatascience.com/poppler-on-windows-179af0e50150
   
-  
+ **Official**   https://en.wikipedia.org/wiki/Tesseract_(software) 
   
       
-  ![Generic badge](https://img.shields.io/badge/ThankYou:-orange.svg)  
+  ![Generic badge](https://img.shields.io/badge/ThankYou:-orange.svg)  <img src='https://www.donracks.co.in/wp-content/uploads/2019/08/hand-1.gif' alt='github' height='50'>
      
