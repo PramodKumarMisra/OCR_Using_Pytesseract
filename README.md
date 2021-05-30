@@ -1,6 +1,8 @@
 # OCR_Using_Pytesseract
 
-Welcome to Optical Character Recognition  Engine Using Pytesseract(OCR-tesseract),OpenCV &Python
+  ![Generic badge](https://img.shields.io/badge/Pytessract-v1:-orange.svg)                              ![Generic badge](https://img.shields.io/badge/OCR-v1:-blue.svg)              ![Generic badge](https://img.shields.io/badge/Python-v3:-orange.svg)                          ![Generic badge](https://img.shields.io/badge/OpenCV-v1:-blue.svg)
+
+***Welcome to Optical Character Recognition  Engine Using Pytesseract(OCR-tesseract),OpenCV &Python***
 
 **What is OCR-tesseract??**
 
@@ -27,12 +29,18 @@ Using this model we are convert image text into text file from scan PDF, Images.
     
 **What problems faced during executing this project??**
 
-   Its very important that when i execute this model we have faced lots of technical issues that i had been solved by stackoverflow and searching exactly error on google.
+   Its very important that when i execute this model we have faced lots of technical issues that i had been solved by ***stackoverflow*** and searching exactly error on google.
    
-   1.Poppler installation problem 
+   ***Poppler installation problem ***
    
-   2.tesseract path setup in /:C drive
+   ***Tesseract path setup in /:C drive***
     
     
-        
+    
+  **Reference for intallation in Windows NT 10.0 :**   reference : https://towardsdatascience.com/poppler-on-windows-179af0e50150
+  
+  
+  
+      
+  ![Generic badge](https://img.shields.io/badge/ThankYou:-orange.svg)  
      
